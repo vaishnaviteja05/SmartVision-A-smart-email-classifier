@@ -25,22 +25,15 @@ The system supports multiple email providers (**Gmail, Yahoo, Outlook, Zoho**), 
 - **Other Tools:** JSON, Regex, Matplotlib (for visualization)  
 
 ## Files Included:
-- spamvision_model.pkl : The trained ML model 
-- spamvision_monitor.py : The actual code script
-- requirements.txt : The python libraries used
-- vectorizer.pkl : It converts the email text into numerical form
-- train_model.py : Trains the ML model using labeled datasets, processes text with NLP, and saves the model for Spam Vision.
-- train_spamvision.py : Fetches emails, updates the dataset, retrains the Spam Vision model, and saves the updated version
-- ZohoMailbox.png : Screenshot of Zoho mail inbox
-- NotificationDetected.jpg : A desktop notification has been detected after running the application
-- ProjectDemo.mp4 : A demo video on how this application works 
-
-  ```plaintext
-spam-vision/
-├── spamvisionmonitor.py
-├── train_model.py
-├── train_spamvision.py
-└── requirements.txt
+- `spamvision_model.pkl` : The trained ML model 
+- `spamvision_monitor.py` : The actual code script
+- `requirements.txt` : The python libraries used
+- `vectorizer.pkl` : It converts the email text into numerical form
+- `train_model.py` : Trains the ML model using labeled datasets, processes text with NLP, and saves the model for Spam Vision.
+- `train_spamvision.py` : Fetches emails, updates the dataset, retrains the Spam Vision model, and saves the updated version
+- `ZohoMailbox.png` : Screenshot of Zoho mail inbox
+- `NotificationDetected.jpg` : A desktop notification has been detected after running the application
+- `ProjectDemo.mp4` : A demo video on how this application works 
 
 ## 📂 Installation
 ```bash
