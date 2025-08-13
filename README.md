@@ -69,10 +69,14 @@ spam-vision/
 ├── NotificationDetected.jpg
 ├── ProjectDemo.mp4
 └── README.md
-
+```
 ---
 
-## 📂 Screenshots
-
+## 📸 Screenshots
 ![Zoho Mail Inbox](assets/ZohoMailbox.png)
 ![Notification Detected](assets/NotificationDetected.jpg)
+
+## 🎥 Demo Video
+[Watch Demo](assets/ProjectDemo.mp4)
+
+
