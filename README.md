@@ -73,8 +73,9 @@ spam-vision/
 ---
 
 ## 📸 Screenshots
-![Zoho Mail Inbox](assets/ZohoMailbox.png)
-![Notification Detected](assets/NotificationDetected.jpg)
+
+NotificationDetected .jpg
+ZohoMailbox.png
 
 ## 🎥 Demo Video
 [Watch Demo](assets/ProjectDemo.mp4)
