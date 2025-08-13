@@ -34,7 +34,14 @@ The system supports multiple email providers (**Gmail, Yahoo, Outlook, Zoho**), 
 - ZohoMailbox.png : Screenshot of Zoho mail inbox
 - NotificationDetected.jpg : A desktop notification has been detected after running the application
 - ProjectDemo.mp4 : A demo video on how this application works 
-  
+
+  ```plaintext
+spam-vision/
+├── spamvisionmonitor.py
+├── train_model.py
+├── train_spamvision.py
+└── requirements.txt
+
 ## 📂 Installation
 ```bash
 # 1️⃣ Clone the repository
